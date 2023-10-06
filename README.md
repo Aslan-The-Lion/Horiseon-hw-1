@@ -13,10 +13,9 @@ Given html and css starter code, we refactor such that the code is readable both
 ## Screenshot & URL
 Deployed Application: 
 GitHub Repo: https://github.com/Aslan-The-Lion/Horiseon-hw-1
-screenshots of website: 
-
-
-
+screenshots of website: <img width="1408" alt="Screen Shot 2023-10-05 at 10 13 56 PM" src="https://github.com/Aslan-The-Lion/Horiseon-hw-1/assets/137839906/2ff10a49-0773-4953-9198-4ab157030a72">
+<img width="1407" alt="Screen Shot 2023-10-05 at 10 14 49 PM" src="https://github.com/Aslan-The-Lion/Horiseon-hw-1/assets/137839906/4b625413-4642-40a8-bfd3-f81a51c468fc">
+<img width="1402" alt="Screen Shot 2023-10-05 at 10 14 58 PM" src="https://github.com/Aslan-The-Lion/Horiseon-hw-1/assets/137839906/a6520d5d-ba08-4f43-84b9-f10c5242f843">
 ## Credits
 Starter Code provided by https://github.com/coding-boot-camp/urban-octo-telegram
 ## License
