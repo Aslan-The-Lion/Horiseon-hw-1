@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* top of the page styling and organization */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* controls styling for benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -101,7 +101,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* controls styling for main section */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,7 +119,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* controls styling for end */
 .footer {
     padding: 30px;
     clear: both;
